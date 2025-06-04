@@ -1,5 +1,11 @@
-## Hi there 👋
+# 👋 Hi, I'm xy
 
+🎓 Computer Science student (3rd year) at xy  
+🔍 Interests: data analysis, machine learning, full-stack development  
+🌱 Currently learning: Java backend (Spring Boot), applied statistics in R
+
+## 🚀 Projects
+this is just for learning git
 <!--
 **vedran549/vedran549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
